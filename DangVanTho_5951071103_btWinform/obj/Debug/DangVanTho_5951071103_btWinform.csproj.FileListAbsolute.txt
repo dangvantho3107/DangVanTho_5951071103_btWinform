@@ -1,0 +1,10 @@
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\bin\Debug\DangVanTho_5951071103_btWinform.exe.config
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\bin\Debug\DangVanTho_5951071103_btWinform.exe
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\bin\Debug\DangVanTho_5951071103_btWinform.pdb
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\obj\Debug\DangVanTho_5951071103_btWinform.csprojAssemblyReference.cache
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\obj\Debug\DangVanTho_5951071103_btWinform.Form1.resources
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\obj\Debug\DangVanTho_5951071103_btWinform.Properties.Resources.resources
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\obj\Debug\DangVanTho_5951071103_btWinform.csproj.GenerateResource.cache
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\obj\Debug\DangVanTho_5951071103_btWinform.csproj.CoreCompileInputs.cache
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\obj\Debug\DangVanTho_5951071103_btWinform.exe
+D:\gia\lap trinh api\DangVanTho_5951071103_btWinform\DangVanTho_5951071103_btWinform\obj\Debug\DangVanTho_5951071103_btWinform.pdb
